@@ -15,7 +15,7 @@ Supports basic arithmetic operations and real-time calculation preview — simil
 📦 Getting Started
 Make sure you have Flutter installed.
 
-📸 Screenshots
+<h2>📸 Screenshots</h2>
 <img alt="Screenshot_20250712_191508.png" height="300" src="screenshots/Screenshot_20250712_191508.png"/>
 <img alt="Screenshot_20250712_192015.png" height="300" src="screenshots/Screenshot_20250712_192015.png"/>
 <img alt="Screenshot_20250712_192037.png" height="300" src="screenshots/Screenshot_20250712_192037.png"/>
