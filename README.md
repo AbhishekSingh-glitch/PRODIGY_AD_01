@@ -1,4 +1,4 @@
-📱 Calculator App (Flutter)
+<h1>📱 Calculator App (Flutter)</h1>
 
 A simple, elegant calculator app built with Flutter.
 Supports basic arithmetic operations and real-time calculation preview — similar to modern smartphone calculators.
