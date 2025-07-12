@@ -16,11 +16,12 @@ Supports basic arithmetic operations and real-time calculation preview — simil
 Make sure you have Flutter installed.
 
 <h2>📸 Screenshots</h2>
-<img alt="Screenshot_20250712_191508.png" height="300" src="screenshots/Screenshot_20250712_191508.png"/>
-<img alt="Screenshot_20250712_192015.png" height="300" src="screenshots/Screenshot_20250712_192015.png"/>
-<img alt="Screenshot_20250712_192037.png" height="300" src="screenshots/Screenshot_20250712_192037.png"/>
-<img alt="Screenshot_20250712_194154.png" height="300" src="screenshots/Screenshot_20250712_194154.png"/>
-
+<div style="display: flex; gap: 10px;">
+    <img alt="Screenshot_20250712_191508.png" height="300" src="screenshots/Screenshot_20250712_191508.png"/>
+    <img alt="Screenshot_20250712_192015.png" height="300" src="screenshots/Screenshot_20250712_192015.png"/>
+    <img alt="Screenshot_20250712_192037.png" height="300" src="screenshots/Screenshot_20250712_192037.png"/>
+    <img alt="Screenshot_20250712_194154.png" height="300" src="screenshots/Screenshot_20250712_194154.png"/>
+</div>
 
 🚀 Built With
 Flutter – cross-platform UI toolkit
