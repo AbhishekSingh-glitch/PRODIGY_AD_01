@@ -16,10 +16,10 @@ Supports basic arithmetic operations and real-time calculation preview — simil
 Make sure you have Flutter installed.
 
 📸 Screenshots
-![Screenshot_20250712_191508.png](screenshots/Screenshot_20250712_191508.png)
-![Screenshot_20250712_192015.png](screenshots/Screenshot_20250712_192015.png)
-![Screenshot_20250712_192037.png](screenshots/Screenshot_20250712_192037.png)
-![Screenshot_20250712_194154.png](screenshots/Screenshot_20250712_194154.png)
+<img alt="Screenshot_20250712_191508.png" height="300" src="screenshots/Screenshot_20250712_191508.png"/>
+<img alt="Screenshot_20250712_192015.png" height="300" src="screenshots/Screenshot_20250712_192015.png"/>
+<img alt="Screenshot_20250712_192037.png" height="300" src="screenshots/Screenshot_20250712_192037.png"/>
+<img alt="Screenshot_20250712_194154.png" height="300" src="screenshots/Screenshot_20250712_194154.png"/>
 
 
 🚀 Built With
